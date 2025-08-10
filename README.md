@@ -32,4 +32,4 @@ This project replicates the homepage layout and styling of Myntra, including nav
 
 
 
-!(https://github.com/programingwithdeepak/Myntra-clone/blob/main/src_image.jpg)
+!(main/src_image.jpg)
