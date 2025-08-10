@@ -5,13 +5,13 @@ This project replicates the homepage layout and styling of Myntra, including nav
 # Features
 > - Responsive Navigation Bar with logo, categories, and search bar.
 
-> -Homepage Banner showcasing featured products.
+> - Homepage Banner showcasing featured products.
 
-> -Product Categories Section (e.g., Tops & Tees, Men, Women, Kids).
+> - Product Categories Section (e.g., Tops & Tees, Men, Women, Kids).
 
-> -Wishlist, Profile, and Bag icons similar to Myntra UI.
+> - Wishlist, Profile, and Bag icons similar to Myntra UI.
 
-> -Pixel-perfect UI resembling Myntra’s official website.
+> - Pixel-perfect UI resembling Myntra’s official website.
 
 # Tech Stack
 **HTML5** – Structure of the page
