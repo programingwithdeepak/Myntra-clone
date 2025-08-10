@@ -14,6 +14,6 @@ This project replicates the homepage layout and styling of Myntra, including nav
   - Pixel-perfect UI resembling Myntra’s official website.
 
 # Tech Stack
-**HTML5** – Structure of the page
+ - **HTML5** – Structure of the page
 
-**CSS3** – Styling and layout design
+ - **CSS3** – Styling and layout design
