@@ -19,13 +19,13 @@ This project replicates the homepage layout and styling of Myntra, including nav
  - **CSS3** – Styling and layout design
 
 # Project Structure
- - 📂 myntra-clone
-   ├── index.html      # Main HTML file
-   ├── style.css       # Stylesheet
+ - 📂 myntra-clone.
+   ├── index.html.      # Main HTML file
+   ├── style.css .      # Stylesheet
    └── images/         # Assets and banners
  # How to Run
- # Clone the repository
-   - git clone https://github.com/you
+ ### Clone the repository
+   - git clone https://programingwithdeepak.github.io/Myntra-clone/
 
 # Screenshot
 (Add a screenshot here of your project preview)
