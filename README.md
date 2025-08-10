@@ -28,4 +28,5 @@ This project replicates the homepage layout and styling of Myntra, including nav
    - git clone https://programingwithdeepak.github.io/Myntra-clone/
 
 # Screenshot
-(Add a screenshot here of your project preview)
+!(<img width="959" height="438" alt="image" src="https://github.com/user-attachments/assets/960233ca-481a-4f69-a6c9-e7502d79ba4a" />
+)
